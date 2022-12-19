@@ -1,2 +1,2 @@
 # Zephyr-Tile
-A simple platformer
+A simple platformer made in Unity and written in C#
